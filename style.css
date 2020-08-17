@@ -10,6 +10,12 @@ html {
   background-size: cover;
 }
 
+body, html {
+	height:100%;
+	overflow: hidden;
+}
+
+
 h1{
 	font-size: 3rem;
 	color: #cfd4d7;
